@@ -42,7 +42,7 @@ struct LoginSignupView: View {
                             }
                     }
                 }
-                .padding(8)
+                .padding(5)
                 .background(
                     Capsule()
                         .stroke(Color.blue, lineWidth: 2)
